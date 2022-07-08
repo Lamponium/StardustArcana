@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: StardustArcana
+Specification-Vendor: StardustNaeku
+Specification-Version: 1
+Implementation-Title: StardustArcana
+Implementation-Version: 1.0
+Implementation-Vendor: StardustNaeku
+Implementation-Timestamp: 2022-07-08T14:34:24+0300
+
