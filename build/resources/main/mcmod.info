@@ -1,6 +1,6 @@
 [
 {
-  "modid": "stardustarcana",
+  "modid": "StardustArcana",
   "name": "Stardust Arcana",
   "description": "Description goes here.",
   "version": "Alpha 1.0",
@@ -8,7 +8,7 @@
   "url": "",
   "updateUrl": "",
   "authorList": ["StardustNaeku"],
-  "credits": "Witchery, Bewitchment, Thaumcraft, Harry Potter, Slavic Culture",
+  "credits": "Witchery, Bewitchment, Thaumcraft, Harry Potter, Psi, Mahouka, Slavic Culture",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

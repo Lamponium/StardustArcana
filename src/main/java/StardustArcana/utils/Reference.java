@@ -1,7 +1,7 @@
-package com.stardustnaeku.stardustarcana.utils;
+package stardustarcana.utils;
 
 public class Reference {
-    public static final String MOD_ID = "StardustArcana";
+    public static final String MOD_ID = "stardustarcana";
     public static final String NAME = "Stardust Arcana";
     public static final String VERSION = "a.1";
     public static final String ACCEPTED_VERSIONS = "[1.12.2]";
